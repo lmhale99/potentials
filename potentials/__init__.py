@@ -11,7 +11,7 @@ from .Implementation import Implementation
 from .Potential import Potential
 from .Action import Action
 from .PotentialLAMMPS import PotentialLAMMPS
-from .Database import Database
+from .database import Database
 
 from . import build
 from .build_lammps_potential import build_lammps_potential
