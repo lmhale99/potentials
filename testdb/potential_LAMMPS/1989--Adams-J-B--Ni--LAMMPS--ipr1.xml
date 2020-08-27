@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>27a40f2f-0c18-417d-81cc-97b788bcecf7</key><id>1989--Adams-J-B--Ni--LAMMPS--ipr1</id><potential><key>e4cf8356-8b84-4e07-ac2b-580419a21730</key><id>1989--Adams-J-B-Foiles-S-M-Wolfer-W-G--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Ni</symbol><symbol>Ni</symbol></interaction><term><file>niu6.txt</file></term></pair_coeff></potential-LAMMPS>

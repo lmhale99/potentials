@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>14ea91be-a501-4e1e-ac31-83849075aa47</key><id>2017--Purja-Pun-G-P--Si--LAMMPS--ipr1</id><potential><key>698e838d-de9d-4912-bc4f-d78e8e0c66b5</key><id>2017--Purja-Pun-G-P-Mishin-Y--Si</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><pair_style><type>tersoff/mod/c</type></pair_style><pair_coeff><term><file>Si.tersoff.modc</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

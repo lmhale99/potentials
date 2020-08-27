@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>f06f406c-3c50-4333-9c97-fa131d231e9d</key><id>2009--Zhakhovskii-V-V--Au--LAMMPS--ipr2</id><potential><key>dd5ace05-9089-4586-a1a9-a8a7ac3f4695</key><id>2009--Zhakhovskii-V-V-Inogamov-N-A-Petrov-Y-V-et-al--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.966569</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Au-2009.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

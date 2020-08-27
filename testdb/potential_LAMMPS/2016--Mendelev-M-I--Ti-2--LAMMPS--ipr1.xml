@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>2c8ad84d-a56e-402a-b5bd-e742ec4c2c86</key><id>2016--Mendelev-M-I--Ti-2--LAMMPS--ipr1</id><potential><key>d7cb9f4c-5dad-4a9c-b5d7-a45eec8baf9c</key><id>2016--Mendelev-M-I-Underwood-T-L-Ackland-G-J--Ti-2</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ti</element><mass>47.867</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ti2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

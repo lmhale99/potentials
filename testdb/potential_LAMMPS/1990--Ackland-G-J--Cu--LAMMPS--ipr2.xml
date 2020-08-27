@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>417643ba-dead-4f18-9982-4980e180c0b7</key><id>1990--Ackland-G-J--Cu--LAMMPS--ipr2</id><potential><key>e7b1de06-c5f5-44de-9bfe-1cdf769814dc</key><id>1990--Ackland-G-J-Vitek-V--Cu</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Cu2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

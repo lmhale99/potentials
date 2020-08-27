@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d085648c-b3ef-4be8-824b-7093fd22770a</key><id>1985--Stillinger-F-H--Si--LAMMPS--ipr1</id><potential><key>edc31ad6-2b9a-455c-9b5f-e888a672ecbd</key><id>1985--Stillinger-F-H-Weber-T-A--Si</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><pair_style><type>sw</type></pair_style><pair_coeff><term><file>Si.sw</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

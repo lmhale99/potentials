@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>f055d705-2973-499b-a1b8-9060226f99a8</key><id>2015--Wilson-S-R--Na--LAMMPS--ipr1</id><potential><key>5f0a7080-5a72-49a2-885e-8083f47a144b</key><id>2015--Wilson-S-R-Gunawardana-K-G-S-H-Mendelev-M-I--Na</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Na</element><mass>22.98977</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Na_MendelevM_2014.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

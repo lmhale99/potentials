@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>02593f85-f8b7-4070-b6b7-8fd25cbebc81</key><id>2016--Stoller-R-E--Ni--LAMMPS--ipr1</id><potential><key>752de65a-c31c-4fbf-9f5d-e0dedce32570</key><id>2016--Stoller-R-E-Tamm-A-Beland-L-K-et-al--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ni_v6_2.0.eam</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

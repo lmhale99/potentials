@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>3488f6de-4021-4cb2-8c66-66bf52b24fc6</key><id>2011--Apostol-F--Al-Cu--LAMMPS--ipr1</id><potential><key>84180f41-771d-4098-8a97-89fa1510477b</key><id>2011--Apostol-F-Mishin-Y--Al-Cu</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>adp</type></pair_style><pair_coeff><term><file>AlCu.adp</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

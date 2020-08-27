@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>7bac51e3-51c6-484a-98e2-08f9703e7677</key><id>2009--Zhakhovskii-V-V--Al--LAMMPS--ipr2</id><potential><key>3facf2af-9356-4264-b887-06049430defa</key><id>2009--Zhakhovskii-V-V-Inogamov-N-A-Petrov-Y-V-et-al--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.9815384</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al-2009.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

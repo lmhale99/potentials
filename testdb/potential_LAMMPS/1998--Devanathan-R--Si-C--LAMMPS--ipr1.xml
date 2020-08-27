@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>5a4f4b3b-248a-40ba-8285-85ba7a98fa74</key><id>1998--Devanathan-R--Si-C--LAMMPS--ipr1</id><potential><key>3046773c-2119-47e8-8301-f72caabe2f8c</key><id>1998--Devanathan-R-Diaz-de-la-Rubia-T-Weber-W-J--Si-C</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>C</element></atom><pair_style><type>tersoff/zbl</type></pair_style><pair_coeff><term><file>SiC.tersoff.zbl</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

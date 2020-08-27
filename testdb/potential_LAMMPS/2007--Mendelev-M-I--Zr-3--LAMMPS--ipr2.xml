@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>3191c162-8c6e-4c48-8e50-239f88592bcd</key><id>2007--Mendelev-M-I--Zr-3--LAMMPS--ipr2</id><potential><key>bd58ae4c-dc17-40e4-91f0-db3eae46f933</key><id>2007--Mendelev-M-I-Ackland-G-J--Zr-3</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Zr</element><mass>91.224</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Zr_3.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d94cf624-b84c-42dd-8cd0-b81e12a76a7a</key><id>2018--Ko-W-S--Sn--LAMMPS--ipr1</id><potential><key>101a3154-12c2-4dce-8f4a-2e1b1ffc1541</key><id>2018--Ko-W-S-Kim-D-H-Kwon-Y-J-Lee-M--Sn</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Sn</element></atom><pair_style><type>meam</type></pair_style><pair_coeff><term><file>library.meam</file></term><term><option>Sn</option></term><term><file>Sn.meam</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

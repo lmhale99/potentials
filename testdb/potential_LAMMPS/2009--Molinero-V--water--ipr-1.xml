@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>e98414d8-07bf-4d30-a825-e30d1f2724b7</key><id>2009--Molinero-V--water--ipr-1</id><potential><key>d60f3a2b-2274-4763-8ace-57f8e69dd244</key><id>2009--Molinero-V-Moore-E-B--water</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><symbol>mW</symbol><mass>18.015</mass></atom><pair_style><type>sw</type></pair_style><pair_coeff><term><file>mW.sw</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

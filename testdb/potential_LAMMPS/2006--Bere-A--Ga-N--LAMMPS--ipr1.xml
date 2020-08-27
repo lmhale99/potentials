@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>c4c1c55f-d95f-4858-a15b-f33854107cd0</key><id>2006--Bere-A--Ga-N--LAMMPS--ipr1</id><potential><key>a08eb46e-3856-4329-9dce-41af22f9acc1</key><id>2006--Bere-A-Serra-A--Ga-N</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ga</element></atom><atom><element>N</element></atom><pair_style><type>sw</type></pair_style><pair_coeff><term><file>GaN.sw</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

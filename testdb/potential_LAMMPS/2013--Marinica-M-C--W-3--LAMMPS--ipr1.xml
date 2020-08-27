@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>c7e30b10-19e4-431e-95bf-116a2e63381f</key><id>2013--Marinica-M-C--W-3--LAMMPS--ipr1</id><potential><key>1d38de3b-e3c6-482f-a97c-84acf5042046</key><id>2013--Marinica-M-C-Ventelon-L-Gilbert-M-R-et-al--W-3</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>W</element><mass>183.84</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>w_eam3.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

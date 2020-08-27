@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>f26209a1-e4ac-48c0-a937-54923f888352</key><id>2003--Li-Y-H--Ta--LAMMPS--ipr1</id><potential><key>f981e581-ca81-43ba-9c24-dc5f8ef0a908</key><id>2003--Li-Y-Siegel-D-J-Adams-J-B-Liu-X-Y--Ta</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ta</element><mass>180.95</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>newPP1_47-setfl.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

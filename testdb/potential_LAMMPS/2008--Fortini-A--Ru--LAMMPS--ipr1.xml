@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>90e928ab-acad-4e31-8f26-f13d5fb37b53</key><id>2008--Fortini-A--Ru--LAMMPS--ipr1</id><potential><key>8a94f366-a892-461e-9d3d-e30a76276727</key><id>2008--Fortini-A-Mendelev-M-I-Buldyrev-S-Srolovitz-D--Ru</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ru</element><mass>101.07</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ru.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

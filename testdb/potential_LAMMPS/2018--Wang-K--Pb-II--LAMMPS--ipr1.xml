@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>38e8d0ca-534c-464c-bb20-c1e5c1341d7e</key><id>2018--Wang-K--Pb-II--LAMMPS--ipr1</id><potential><key>8ded9172-8e27-478a-b8f9-eea237d2e830</key><id>2018--Wang-K-Zhu-W-Xiang-M-et-al--Pb-II</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Pb</element><mass>207.2</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Pb_Wang02.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

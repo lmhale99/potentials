@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ecb27c54-e9b5-4497-a0a1-c3e4850c0f7e</key><id>2016--Nichol-A--Cs--LAMMPS--ipr2</id><potential><key>ca73cf4e-aaae-40f6-9592-6f28abc18029</key><id>2016--Nichol-A-Ackland-G-J--Cs</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cs</element><mass>132.9</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Cs_v2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

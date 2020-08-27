@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>23ed08e9-7eec-4e6f-9963-cc63e21fafaf</key><id>2008--Mendelev-M-I--Al--LAMMPS--ipr1</id><potential><key>eb027a17-aeb8-4f91-a58f-0d8830d653f8</key><id>2008--Mendelev-M-I-Kramer-M-J-Becker-C-A-Asta-M--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.98154</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Al1.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

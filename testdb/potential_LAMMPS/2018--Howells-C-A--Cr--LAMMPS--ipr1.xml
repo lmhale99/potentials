@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>16c5d68c-bf58-41e2-bd1e-22ab7c7436e1</key><id>2018--Howells-C-A--Cr--LAMMPS--ipr1</id><potential><key>c6620af7-cfe4-4086-b9cf-8198d56e1d30</key><id>2018--Howells-C-A-Mishin-Y--Cr</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cr</element><mass>51.9961</mass></atom><pair_style><type>adp</type></pair_style><pair_coeff><term><file>Cr.adp.txt</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

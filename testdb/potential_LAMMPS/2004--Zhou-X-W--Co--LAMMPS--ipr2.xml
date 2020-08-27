@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>67a0ae5e-343e-479e-9559-719a6a6898c6</key><id>2004--Zhou-X-W--Co--LAMMPS--ipr2</id><potential><key>86bc9f81-1601-4a4f-bcc1-f5d7d96c3e9b</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Co</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Co</element><mass>58.933</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Co_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>e67cefd1-a51a-43f4-b63e-7e10a2a29f9a</key><id>2004--Zhou-X-W--Pd--LAMMPS--ipr2</id><potential><key>5ea5dd6c-a901-4acd-b036-9c33a0acd5b0</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Pd</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Pd</element><mass>106.42</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Pd_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

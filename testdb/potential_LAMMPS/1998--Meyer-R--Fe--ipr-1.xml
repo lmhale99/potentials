@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>cfd40828-6e93-446d-b419-fe59118a5683</key><id>1998--Meyer-R--Fe--ipr-1</id><potential><key>bfd028cc-3a49-4a21-9731-56cee899c095</key><id>1998--Meyer-R-Entel-P--Fe</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.847</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Fe</symbol><symbol>Fe</symbol></interaction><term><file>Fe_MeyerEntel.eam</file></term></pair_coeff></potential-LAMMPS>

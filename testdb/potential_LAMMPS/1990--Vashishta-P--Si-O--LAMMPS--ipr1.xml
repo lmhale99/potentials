@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>1b27c797-2fa3-455a-8d24-8ef7d5814424</key><id>1990--Vashishta-P--Si-O--LAMMPS--ipr1</id><potential><key>cb2ed094-032f-4e20-bb3b-a32bdb173697</key><id>1990--Vashishta-P-Kalia-R-K-Rino-J-P-Ebbsjo-I--Si-O</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>O</element></atom><pair_style><type>vashishta</type></pair_style><pair_coeff><term><file>SiO.1990.vashishta</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

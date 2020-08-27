@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>89f7ead2-e5d1-4f01-a325-405b0b35a108</key><id>2003--Nord-J--Ga-N--LAMMPS--ipr1</id><potential><key>21fd9cb3-626b-4c40-b049-ecccd27f4646</key><id>2003--Nord-J-Albe-K-Erhart-P-Nordlund-K--Ga-N</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ga</element></atom><atom><element>N</element></atom><pair_style><type>tersoff</type></pair_style><pair_coeff><term><file>2003_GaN.tersoff</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

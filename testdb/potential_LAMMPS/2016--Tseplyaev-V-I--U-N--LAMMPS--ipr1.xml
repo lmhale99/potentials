@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>5a7d4c97-8977-4435-b135-d919e44dd93c</key><id>2016--Tseplyaev-V-I--U-N--LAMMPS--ipr1</id><potential><key>9f317e60-ac61-4533-a756-a023996aaee5</key><id>2016--Tseplyaev-V-I-Starikov-S-V--U-N</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>U</element><mass>238.03</mass></atom><atom><element>N</element><mass>14.007</mass></atom><pair_style><type>adp</type></pair_style><pair_coeff><term><file>un.adp.txt</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

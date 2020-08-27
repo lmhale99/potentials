@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>8ca857c2-a6eb-460d-b46a-a40e236c2616</key><id>2006--Chamati-H--Fe--LAMMPS--ipr1</id><potential><key>3837b6da-05c4-4148-97cd-90b26a2092df</key><id>2006--Chamati-H-Papanicolaou-N-I-Mishin-Y-Papaconstantopoulos-D-A--Fe</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.847</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Fe_Mishin2006.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

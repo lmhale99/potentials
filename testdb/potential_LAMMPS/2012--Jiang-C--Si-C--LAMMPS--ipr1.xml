@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>e1b401a9-6696-41d1-ac13-1281e4173d73</key><id>2012--Jiang-C--Si-C--LAMMPS--ipr1</id><potential><key>91bec147-9238-4cdc-bd9c-fd83792899d8</key><id>2012--Jiang-C-Morgan-D-Szlufarska-I--Si-C</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>C</element></atom><pair_style><type>edip/multi</type></pair_style><pair_coeff><term><file>SiC.edip</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

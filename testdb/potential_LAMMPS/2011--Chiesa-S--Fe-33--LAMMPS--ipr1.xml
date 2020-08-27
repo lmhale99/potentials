@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ecda1d1b-c7c6-49d2-b18b-0605485169ac</key><id>2011--Chiesa-S--Fe-33--LAMMPS--ipr1</id><potential><key>3af85e6e-db61-4ac1-b211-1fd36768b400</key><id>2011--Chiesa-S-Derlet-P-M-Dudarev-S-L-Swygenhoven-H-V--Fe-33</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.845</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Fe_Fe.CS3_33.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

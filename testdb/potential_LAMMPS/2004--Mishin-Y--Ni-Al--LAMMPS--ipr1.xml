@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ed17e8a5-986c-4a78-8a1a-373964dc1d64</key><id>2004--Mishin-Y--Ni-Al--LAMMPS--ipr1</id><potential><key>13051c1b-48f7-47f5-bad7-fc627fe10376</key><id>2004--Mishin-Y--Ni-Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>NiAl.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

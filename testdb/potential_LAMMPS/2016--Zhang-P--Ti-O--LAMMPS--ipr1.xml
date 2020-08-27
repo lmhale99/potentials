@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>51e7dfd7-66df-4d93-be8c-209ffc278d4e</key><id>2016--Zhang-P--Ti-O--LAMMPS--ipr1</id><potential><key>df7bbc58-7b3e-4946-9be1-b155f5c1cab9</key><id>2016--Zhang-P-Trinkle-D-R--Ti-O</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ti</element></atom><atom><element>O</element></atom><pair_style><type>meam/spline</type></pair_style><pair_coeff><term><file>TiO.meam.spline</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

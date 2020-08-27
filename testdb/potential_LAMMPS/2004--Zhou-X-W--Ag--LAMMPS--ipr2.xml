@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>18078bb9-2538-4dd0-af74-8e2d69d0f323</key><id>2004--Zhou-X-W--Ag--LAMMPS--ipr2</id><potential><key>248c41b3-6861-43d0-876c-e528541b699f</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Ag</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ag</element><mass>107.87</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ag_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

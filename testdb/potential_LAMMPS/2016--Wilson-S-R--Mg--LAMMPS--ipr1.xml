@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>3ea1fab8-f7a8-4eaf-898c-29805c9df566</key><id>2016--Wilson-S-R--Mg--LAMMPS--ipr1</id><potential><key>2a6e9260-0a82-4041-852b-88e69bfbd79d</key><id>2016--Wilson-S-R-Mendelev-M-I--Mg</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Mg</element><mass>24.305</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Mg1.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

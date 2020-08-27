@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>097bb56d-f57a-49c2-a28b-0703121bf3fe</key><id>2006--Sun-D-Y--Mg--LAMMPS--ipr1</id><potential><key>d07092e4-8c38-4cf5-bd05-bf18f8b80776</key><id>2006--Sun-D-Y-Mendelev-M-I-Becker-C-A-et-al--Mg</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Mg</element><mass>24.305</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Mg.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

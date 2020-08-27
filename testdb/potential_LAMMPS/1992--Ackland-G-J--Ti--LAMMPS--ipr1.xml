@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>60f2b912-7538-4bfa-9b58-9058ca99f7ae</key><id>1992--Ackland-G-J--Ti--LAMMPS--ipr1</id><potential><key>8a634ace-23df-4e28-8041-007bd0e11cfb</key><id>1992--Ackland-G-J--Ti</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ti</element><mass>47.867</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ti.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

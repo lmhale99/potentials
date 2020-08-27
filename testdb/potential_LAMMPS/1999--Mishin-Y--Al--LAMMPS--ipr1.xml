@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>b40b32b7-a4a2-4417-a85d-293e4c137aa8</key><id>1999--Mishin-Y--Al--LAMMPS--ipr1</id><potential><key>0c2ddffb-e644-4e5c-8e53-9bf722bb5dee</key><id>1999--Mishin-Y-Farkas-D-Mehl-M-J-Papaconstantopoulos-D-A--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al99.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

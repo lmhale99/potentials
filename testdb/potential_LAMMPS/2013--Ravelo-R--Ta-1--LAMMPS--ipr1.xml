@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a7155919-1006-4820-9022-9f8256ef5e4a</key><id>2013--Ravelo-R--Ta-1--LAMMPS--ipr1</id><potential><key>90f90347-9851-4950-9776-f32583162b20</key><id>2013--Ravelo-R-Germann-T-C-Guerrero-O-et-al--Ta-1</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ta</element><mass>180.95</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ta1_Ravelo_2013.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>35819717-5690-4c08-b0a3-2a4b0f7e203f</key><id>2009--Olsson-P-A-T--V--LAMMPS--ipr1</id><potential><key>5e72b6b6-d839-4a13-8c6b-980f6f85a523</key><id>2009--Olsson-P-A-T--V</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>V</element><mass>50.9414</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>V_Olsson_CMS2009.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

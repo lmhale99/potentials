@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>1f1253aa-1ef5-42cd-94e3-5d8d24d1b388</key><id>2003--Zope-R-R--Al--LAMMPS--ipr1</id><potential><key>36dbb1ec-c7f0-46a4-a501-1c518f777d5c</key><id>2003--Zope-R-R-Mishin-Y--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al03.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

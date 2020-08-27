@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>0055dd52-bcee-4a2c-bfa0-fd24221952dd</key><id>2004--Zhou-X-W--Fe--LAMMPS--ipr2</id><potential><key>030d9099-cf7f-4623-b597-733e80d214a4</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Fe</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.847</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Fe_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

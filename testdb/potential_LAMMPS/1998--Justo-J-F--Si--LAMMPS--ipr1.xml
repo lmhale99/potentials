@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>f35f0ff7-7d29-4b23-977d-e7c9765c2bf9</key><id>1998--Justo-J-F--Si--LAMMPS--ipr1</id><potential><key>a14ac6fc-058d-4f76-bc93-d6d1de1695b9</key><id>1998--Justo-J-F-Bazant-M-Z-Kaxiras-E-et-al--Si</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><pair_style><type>edip</type></pair_style><pair_coeff><term><file>Si.edip</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

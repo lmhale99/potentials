@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>72b6b1b4-686a-4cdb-8ade-793a7b316fd8</key><id>2008--Mendelev-M-I--Cu--LAMMPS--ipr1</id><potential><key>22c4afdb-5a0c-4541-9634-18f325e1af02</key><id>2008--Mendelev-M-I-Kramer-M-J-Becker-C-A-Asta-M--Cu</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Cu1.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

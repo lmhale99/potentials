@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>41aaa580-48b9-4036-aaa9-66e5234edb9f</key><id>2004--Liu-X-Y--Al--LAMMPS--ipr1</id><potential><key>8f71b887-b4c5-42c0-b06c-9456153725d9</key><id>2004--Liu-X-Y-Ercolessi-F-Adams-J-B--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al-LEA.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

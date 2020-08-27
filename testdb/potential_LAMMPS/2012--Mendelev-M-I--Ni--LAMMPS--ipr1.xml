@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>5ae56e1c-c461-4c6d-a761-ecd2ff4706bb</key><id>2012--Mendelev-M-I--Ni--LAMMPS--ipr1</id><potential><key>62289060-2bb5-4fa0-97ed-721404566f81</key><id>2012--Mendelev-M-I-Kramer-M-J-Hao-S-G-et-al--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ni1_Mendelev_2012.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>f20ef526-a67b-4bdb-9037-5a16c33d311e</key><id>2003--Han-S--V--LAMMPS--ipr1</id><potential><key>04ad93c0-31f0-413f-a6f0-a68f2e709b8f</key><id>2003--Han-S-Zepeda-Ruiz-L-A-Ackland-G-J-et-al--V</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>V</element><mass>50.9415</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>V.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

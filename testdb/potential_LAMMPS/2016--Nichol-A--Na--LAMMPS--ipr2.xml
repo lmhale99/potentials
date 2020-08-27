@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ca4cec9b-5dd0-4808-a2a9-7ed3249d7e65</key><id>2016--Nichol-A--Na--LAMMPS--ipr2</id><potential><key>d3ec6aef-1fc5-4151-a290-6e61acd25a77</key><id>2016--Nichol-A-Ackland-G-J--Na</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Na</element><mass>23.0</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Na_v2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ddb93f7b-349f-4ab2-a630-97de04d12eff</key><id>1989--Adams-J-B--Cu--LAMMPS--ipr1</id><potential><key>69d9f89a-f9a2-47ef-bd15-415d1bb7a9ba</key><id>1989--Adams-J-B-Foiles-S-M-Wolfer-W-G--Cu</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.55</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Cu</symbol><symbol>Cu</symbol></interaction><term><file>cuu6.txt</file></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>76bc6647-bfbe-401b-a327-b0c0e770098a</key><id>2010--Winey-J-M--Al--LAMMPS--ipr1</id><potential><key>880e9ae4-d244-4333-8d8a-924700c90084</key><id>2009--Winey-J-M-Kubota-A-Gupta-Y-M--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al_wkg_MSMSE_2009.set</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d060e25f-787e-4f94-9c03-10ffffe8bf86</key><id>2016--Borovikov-V--fictional-Cu-33--LAMMPS--ipr1</id><potential><key>c323c44c-dd1e-404b-bdae-19e515507dd0</key><id>2016--Borovikov-V-Mendelev-M-I-King-A-H--fictional-Cu-33</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>MCu33.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

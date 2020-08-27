@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>dc7b14cc-ed13-4332-94de-d91c0f839b98</key><id>2012--Purja-Pun-G-P--Co--LAMMPS--ipr1</id><potential><key>a51fd82a-2bb5-4d30-9663-5f730c6fab40</key><id>2012--Purja-Pun-G-P-Mishin-Y--Co</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Co</element><mass>58.9332</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Co_PurjaPun_2012.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

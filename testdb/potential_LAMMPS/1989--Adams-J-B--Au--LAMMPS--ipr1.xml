@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ee3495e7-e36a-418e-9de3-c5ef4643ef7f</key><id>1989--Adams-J-B--Au--LAMMPS--ipr1</id><potential><key>8018facc-a337-4e34-b13f-b293f36a3458</key><id>1989--Adams-J-B-Foiles-S-M-Wolfer-W-G--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.97</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Au</symbol><symbol>Au</symbol></interaction><term><file>auu6.txt</file></term></pair_coeff></potential-LAMMPS>

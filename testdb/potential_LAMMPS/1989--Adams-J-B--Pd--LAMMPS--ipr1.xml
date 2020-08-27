@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a5486f00-b393-45af-9b99-c841d2615563</key><id>1989--Adams-J-B--Pd--LAMMPS--ipr1</id><potential><key>d43c300c-e557-42f8-87a0-c26cf82370df</key><id>1989--Adams-J-B-Foiles-S-M-Wolfer-W-G--Pd</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Pd</element><mass>106.4</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Pd</symbol><symbol>Pd</symbol></interaction><term><file>pdu6.txt</file></term></pair_coeff></potential-LAMMPS>

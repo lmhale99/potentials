@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>76a265fc-45ff-49d7-8c64-2044f12402f2</key><id>1986--Foiles-S-M--Ag--LAMMPS--ipr1</id><potential><key>672d54f8-9f48-4200-af56-8a7378ebbc4a</key><id>1986--Foiles-S-M-Baskes-M-I-Daw-M-S--Ag</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ag</element><mass>107.87</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Ag</symbol><symbol>Ag</symbol></interaction><term><file>Ag_u3.eam</file></term></pair_coeff></potential-LAMMPS>

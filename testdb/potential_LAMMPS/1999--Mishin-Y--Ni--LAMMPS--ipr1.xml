@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a7c9b786-5aa7-481b-86eb-7e4edd9cec02</key><id>1999--Mishin-Y--Ni--LAMMPS--ipr1</id><potential><key>81adb388-59eb-4f49-88bf-6f06a1343fae</key><id>1999--Mishin-Y-Farkas-D-Mehl-M-J-Papaconstantopoulos-D-A--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ni99.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

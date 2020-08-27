@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>73d03486-1b34-4a24-b1d2-4da253abdda0</key><id>2019--Mendelev-M-I--Cu-Zr--LAMMPS--ipr1</id><potential><key>2e5ed18c-5fb4-46e4-ae7a-5f50d9429d95</key><id>2019--Mendelev-M-I--Cu-Zr</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><atom><element>Zr</element><mass>91.224</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Cu-Zr_4.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

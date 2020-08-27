@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS>
+    <key>9a214ee7-7436-4ad6-a1e4-25a3593c9e2f</key>
+    <id>Al-parameterization-round12-v2</id>
+    <potential>
+        <key>a758c0f7-1e2f-4299-8340-61ccdcadea9a</key>
+        <id>Al-parameterization-round12</id>
+    </potential>
+    <units>metal</units>
+    <atom_style>atomic</atom_style>
+    <atom>
+        <element>Al</element>
+    </atom>
+    <pair_style>
+        <type>eam/alloy</type>
+    </pair_style>
+    <pair_coeff>
+        <term>
+            <file>Al.eam.alloy</file>
+        </term>
+        <term>
+            <symbols>True</symbols>
+        </term>
+    </pair_coeff>
+</potential-LAMMPS>

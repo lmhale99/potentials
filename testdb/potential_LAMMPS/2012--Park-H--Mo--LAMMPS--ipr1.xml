@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>060ea747-f653-44fd-99e4-07a000efa6de</key><id>2012--Park-H--Mo--LAMMPS--ipr1</id><potential><key>522a71ba-bcde-4014-9b84-0b92a28efbc1</key><id>2012--Park-H-Fellinger-M-R-Lenosky-T-J-et-al--Mo</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Mo</element><mass>95.96</mass></atom><pair_style><type>meam/spline</type></pair_style><pair_coeff><term><file>Park_MEAM_Mo_2012.spline</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>bd1e29aa-ce1c-47e8-8d9e-856345bac31e</key><id>2016--Wilson-S-R--fictional-W--LAMMPS--ipr1</id><potential><key>744c569b-17a3-479c-b4cc-515a790399b5</key><id>2016--Wilson-S-R-Mendelev-M-I--fictional-W</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>W</element><mass>183.84</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>W2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

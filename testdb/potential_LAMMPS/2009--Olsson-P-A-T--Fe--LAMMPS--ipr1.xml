@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>c1815673-2105-4e24-baf9-5df9d94370b0</key><id>2009--Olsson-P-A-T--Fe--LAMMPS--ipr1</id><potential><key>0f3c1305-2041-401f-9b8e-a200f57fe941</key><id>2009--Olsson-P-A-T--Fe</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.845</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Fe_Olsson_CMS2009.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>04b89a63-a16a-4e89-89e7-dee386bf0a5b</key><id>2017--Wang-P--TWIP--LAMMPS--ipr2</id><potential><key>4a8890c8-1ff4-4346-bdd7-72250e853a56</key><id>2017--Wang-P-Xu-S-Liu-J-et-al--TWIP</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><symbol>meta_TWIP</symbol><mass>55.845</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>TWIP.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

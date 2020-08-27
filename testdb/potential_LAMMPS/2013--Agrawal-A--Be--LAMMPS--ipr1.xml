@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>81f0943d-7b43-433a-b114-32f3d1694459</key><id>2013--Agrawal-A--Be--LAMMPS--ipr1</id><potential><key>7d0265d5-3088-44df-8b36-6a08e3799695</key><id>2013--Agrawal-A-Mishra-R-Ward-L-et-al--Be</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Be</element><mass>9.012</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Be_Agrawal.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

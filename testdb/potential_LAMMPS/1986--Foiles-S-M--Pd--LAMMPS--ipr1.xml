@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>fa189ff3-4a27-4c36-b8b7-3821443a4edd</key><id>1986--Foiles-S-M--Pd--LAMMPS--ipr1</id><potential><key>16dde7ea-c8cf-4a23-95b3-494a2b252e9b</key><id>1986--Foiles-S-M-Baskes-M-I-Daw-M-S--Pd</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Pd</element><mass>106.4</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Pd</symbol><symbol>Pd</symbol></interaction><term><file>Pd_u3.eam</file></term></pair_coeff></potential-LAMMPS>

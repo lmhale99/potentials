@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>8bfd0a48-8558-46f9-9d20-cd9e92cb83ae</key><id>2017--Purja-Pun-G-P--Au--LAMMPS--ipr1</id><potential><key>ef908258-25d1-439e-8223-3bf4df924ed0</key><id>2017--Purja-Pun-G-P--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.96654</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Au_GLJ10_3.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

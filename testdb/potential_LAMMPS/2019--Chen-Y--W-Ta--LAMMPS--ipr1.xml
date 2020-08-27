@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>57b83115-a25b-4f20-b99c-97f4d98ba951</key><id>2019--Chen-Y--W-Ta--LAMMPS--ipr1</id><potential><key>04391ce1-60cb-4f77-a20b-33c133e2f594</key><id>2019--Chen-Y-Fang-J-Liu-L-et-al--W-Ta</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>W</element><mass>183.85</mass></atom><atom><element>Ta</element><mass>180.9479</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>WTa.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

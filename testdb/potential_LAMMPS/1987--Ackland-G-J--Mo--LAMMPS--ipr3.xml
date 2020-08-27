@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>0014647b-dd8e-4a96-a8b1-fab20b39c4de</key><id>1987--Ackland-G-J--Mo--LAMMPS--ipr3</id><potential><key>ff748ef8-f019-42b2-bdda-b5b5cadd6264</key><id>1987--Ackland-G-J-Thetford-R--Mo</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Mo</element><mass>95.94</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>mo.fs.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

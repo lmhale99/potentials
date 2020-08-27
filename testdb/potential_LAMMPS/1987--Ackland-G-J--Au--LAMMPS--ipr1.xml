@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d8dc01ec-7e50-48f2-92a7-a3b670f28037</key><id>1987--Ackland-G-J--Au--LAMMPS--ipr1</id><potential><key>25899e46-6992-460a-b1c7-fb2704629e9f</key><id>1987--Ackland-G-J-Tichy-G-Vitek-V-Finnis-M-W--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.96655</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Au.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

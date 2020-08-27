@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a1d123a0-eba2-4271-962c-720d9d564a9b</key><id>2020--Byggmastar-J--Fe--LAMMPS--ipr1</id><potential><key>114b0f72-8f6d-4ac1-82fb-ac15fd6b7bde</key><id>2020--Byggmastar-J-Granberg-F--Fe</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element></atom><pair_style><type>tersoff/zbl</type></pair_style><pair_coeff><term><file>Fe_Byggmastar.tersoff.zbl</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

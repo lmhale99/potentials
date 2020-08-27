@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>6afb2be0-b298-4eb6-a039-0a988bf15977</key><id>2004--Zhou-X-W--Al--LAMMPS--ipr2</id><potential><key>5aad5c57-cd85-48b3-acb0-db0cc4f68e31</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Al</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Al</element><mass>26.982</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Al_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

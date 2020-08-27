@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>c4147f45-37dd-4558-9af0-e4efd0d5e70d</key><id>2003--Mendelev-M-I--Fe-5--LAMMPS--ipr1</id><potential><key>3e8333b6-bc3a-470e-99cc-abb8a422403e</key><id>2003--Mendelev-M-I-Han-S-Srolovitz-D-J-et-al--Fe-5</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Fe</element><mass>55.85</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Fe_5.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

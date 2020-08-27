@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>996ee8d7-a0a4-48c1-b689-81e4e0825dfa</key><id>2001--Mishin-Y--Cu-1--LAMMPS--ipr1</id><potential><key>a7910725-e80c-4a53-83e8-adfb5724dc9f</key><id>2001--Mishin-Y-Mehl-M-J-Papaconstantopoulos-D-A-et-al--Cu-1</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Cu01.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

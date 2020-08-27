@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a1062a56-7561-4ed0-b030-e7325b796e83</key><id>2004--Zhou-X-W--Ti--LAMMPS--ipr2</id><potential><key>8d877089-5fc2-418e-a2b3-a1b468483690</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Ti</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ti</element><mass>47.88</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ti_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

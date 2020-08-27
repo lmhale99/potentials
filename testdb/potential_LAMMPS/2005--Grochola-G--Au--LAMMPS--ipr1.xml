@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>8f78e7a4-a563-471d-83ae-539939526902</key><id>2005--Grochola-G--Au--LAMMPS--ipr1</id><potential><key>92a89043-e2bb-4c37-bd39-d98bf4e1de1e</key><id>2005--Grochola-G-Russo-S-P-Snook-I-K--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.967</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Au-Grochola-JCP05.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

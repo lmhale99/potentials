@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>08655b43-b844-466f-8e48-e908a9decbbb</key><id>2007--Munetoh-S--Si-O--LAMMPS--ipr1</id><potential><key>55d00f32-3bb5-433b-b01f-bef7c379d852</key><id>2007--Munetoh-S-Motooka-T-Moriguchi-K-Shintani-A--Si-O</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>O</element></atom><pair_style><type>tersoff</type></pair_style><pair_coeff><term><file>2007_SiO.tersoff</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

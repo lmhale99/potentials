@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>dcce3dbc-df92-480b-8256-8299cb58f833</key><id>1990--Tersoff-J--Si-C--LAMMPS--ipr1</id><potential><key>b3b05ea5-7852-4b6f-95b4-f04414a2d9b6</key><id>1990--Tersoff-J--Si-C</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>C</element></atom><pair_style><type>tersoff</type></pair_style><pair_coeff><term><file>1990_SiC.tersoff</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

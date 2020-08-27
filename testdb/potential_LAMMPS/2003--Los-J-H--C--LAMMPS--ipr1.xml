@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>da278bc2-40c3-4197-a4ab-9d671c963c68</key><id>2003--Los-J-H--C--LAMMPS--ipr1</id><potential><key>ef26cdaf-8b0d-46d8-aa68-41cb2721b67e</key><id>2003--Los-J-H-Fasolino-A--C</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>C</element></atom><pair_style><type>lcbop</type></pair_style><pair_coeff><term><file>C.lcbop</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

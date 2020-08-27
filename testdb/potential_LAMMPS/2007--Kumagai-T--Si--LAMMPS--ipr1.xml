@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ee87565b-c8a9-4cc8-9f99-1e405f56d165</key><id>2007--Kumagai-T--Si--LAMMPS--ipr1</id><potential><key>390be585-f40c-4e4c-ba6a-7aa0577dadee</key><id>2007--Kumagai-T-Izumi-S-Hara-S-Sakai-S--Si</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><pair_style><type>tersoff/mod</type></pair_style><pair_coeff><term><file>Si.tersoff.mod</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

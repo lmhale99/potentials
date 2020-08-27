@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>649563b2-aaf2-4f5e-b7d3-999790e5dcf9</key><id>1995--Ackland-G-J--Zr--LAMMPS--ipr1</id><potential><key>c754e222-3417-45d9-a7a3-1d399ea72c1e</key><id>1995--Ackland-G-J-Wooding-S-J-Bacon-D-J--Zr</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Zr</element><mass>91.22</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Zr.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>380d3b47-51e9-4590-8a59-8313dd8fb018</key><id>1986--Foiles-S-M--Cu--LAMMPS--ipr1</id><potential><key>7991d330-58cd-43ac-bba9-ff6a58dcf617</key><id>1986--Foiles-S-M-Baskes-M-I-Daw-M-S--Cu</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.55</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Cu</symbol><symbol>Cu</symbol></interaction><term><file>Cu_u3.eam</file></term></pair_coeff></potential-LAMMPS>

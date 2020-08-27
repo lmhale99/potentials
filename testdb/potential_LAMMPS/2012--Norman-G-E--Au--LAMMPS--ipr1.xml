@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>706c076a-97e5-40bf-9c90-8dbb32b64abc</key><id>2012--Norman-G-E--Au--LAMMPS--ipr1</id><potential><key>d559106d-4277-4119-a8e7-9ecf845af3e5</key><id>2012--Norman-G-E-Starikov-S-V-Stegailov-V-V--Au</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Au</element><mass>196.97</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Au_5T.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

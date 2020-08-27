@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>a7c4a5fa-70a8-4b6a-b02b-25c96509c0d7</key><id>2016--Borovikov-V--fictional-Cu-32--LAMMPS--ipr1</id><potential><key>e268babd-b69b-486b-b800-9621bafeab6e</key><id>2016--Borovikov-V-Mendelev-M-I-King-A-H--fictional-Cu-32</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Cu</element><mass>63.546</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>MCu32.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

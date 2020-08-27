@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d5d0fe1b-a2d4-43ca-99ea-039766dd32ad</key><id>2015--Purja-Pun-G-P--Ta--LAMMPS--ipr1</id><potential><key>bdec0325-b66a-456f-98f1-cb2db88fd247</key><id>2015--Purja-Pun-G-P-Darling-K-A-Kecskes-L-J-Mishin-Y--Ta</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ta</element><mass>180.9479</mass></atom><pair_style><type>adp</type></pair_style><pair_coeff><term><file>Ta.adp.txt</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

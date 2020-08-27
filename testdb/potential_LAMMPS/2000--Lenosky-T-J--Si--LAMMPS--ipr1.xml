@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>09272147-ff2e-44aa-b0c6-cba8e2c5e6ca</key><id>2000--Lenosky-T-J--Si--LAMMPS--ipr1</id><potential><key>eeb07b3b-d243-4825-803c-991feaa01cdd</key><id>2000--Lenosky-T-J-Sadigh-B-Alonso-E-et-al--Si</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><pair_style><type>meam/spline</type></pair_style><pair_coeff><term><file>Si_1.meam.spline</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

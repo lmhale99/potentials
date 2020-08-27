@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>bf3f335f-5150-4a80-bd9d-bea534f82723</key><id>2004--Zhou-X-W--Ta--LAMMPS--ipr2</id><potential><key>04aa4a53-9229-4c6a-8a03-1e8836fd8712</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Ta</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ta</element><mass>180.95</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Ta_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

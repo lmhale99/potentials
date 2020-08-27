@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>024ec18c-c358-4eca-b6f9-442d70cfbf05</key><id>1987--Ackland-G-J--Ag--LAMMPS--ipr2</id><potential><key>dc4149ce-3592-4131-8683-ecf654d5a519</key><id>1987--Ackland-G-J-Tichy-G-Vitek-V-Finnis-M-W--Ag</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ag</element><mass>107.8682</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ag_v2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>19c66fc5-858c-4027-bb3c-feae215bf618</key><id>2017--Los-J-H--B-N--LAMMPS--ipr1</id><potential><key>f416dd7d-6d20-4cbd-9ef9-25d6ac27fa9a</key><id>2017--Los-J-H-Kroes-J-M-H-Albe-K-et-al--B-N</id></potential><units>metal</units><atom_style>atomic</atom_style><allsymbols>true</allsymbols><atom><element>B</element></atom><atom><element>N</element></atom><pair_style><type>extep</type></pair_style><pair_coeff><term><file>BN.extep</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

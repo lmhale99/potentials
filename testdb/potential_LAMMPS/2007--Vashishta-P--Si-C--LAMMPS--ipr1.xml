@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>da3a62f4-c17b-4119-a65f-deb47c842f69</key><id>2007--Vashishta-P--Si-C--LAMMPS--ipr1</id><potential><key>d9495b9a-ff7a-4c4f-bb25-de2062e794d9</key><id>2007--Vashishta-P-Kalia-R-K-Nakano-A-Rino-J-P--Si-C</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>C</element></atom><pair_style><type>vashishta</type></pair_style><pair_coeff><term><file>SiC.vashishta</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

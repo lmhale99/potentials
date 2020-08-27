@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>c0aa8f35-ddfc-48aa-8737-655dacc46e95</key><id>2018--Mendelev-M-I--Tb--LAMMPS--ipr1</id><potential><key>ed3a1bb7-3c6c-47f6-b3ca-e05870435610</key><id>2018--Mendelev-M-I-Zhang-F-Song-H-et-al--Tb</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Tb</element><mass>158.92534</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Tb.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

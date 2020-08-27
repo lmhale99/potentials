@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>ba150dce-78d4-41c2-9b54-e187dbb7d069</key><id>2012--Smirnova-D-E--U--LAMMPS--ipr1</id><potential><key>8ae19224-1890-4eb8-ae50-67c5cf76af98</key><id>2011--Smirnova-D-E-Starikov-S-V-Stegailov-V-V--U</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>U</element><mass>238.03</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>U.eam.sss2012.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

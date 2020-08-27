@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>8bf82d2c-cf47-4013-a239-04c6aca783ab</key><id>2004--Zhou-X-W--Mg--LAMMPS--ipr2</id><potential><key>816ed50d-9e0c-4bd2-8a9a-dca83d4e0bb8</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Mg</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Mg</element><mass>24.305</mass></atom><pair_style><type>eam/alloy</type></pair_style><pair_coeff><term><file>Mg_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

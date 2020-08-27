@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>7108e5a9-2c06-41a2-9337-ff4889906288</key><id>2004--Zhou-X-W--Ni--LAMMPS--ipr2</id><potential><key>063c9331-69e4-40e4-bb6c-cee56d576b60</key><id>2004--Zhou-X-W-Johnson-R-A-Wadley-H-N-G--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.693</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Ni_Zhou04.eam.alloy</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

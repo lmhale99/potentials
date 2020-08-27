@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>9d2b8f21-7126-42ef-bda3-9680f1e1e0e2</key><id>2005--Erhart-P--Si-C-II--LAMMPS--ipr1</id><potential><key>b484d453-4f89-44d2-b64f-bbca3eb97d30</key><id>2005--Erhart-P-Albe-K--Si-C-II</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Si</element></atom><atom><element>C</element></atom><pair_style><type>tersoff</type></pair_style><pair_coeff><term><file>2005_SiC_II.tersoff</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

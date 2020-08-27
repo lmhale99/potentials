@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>e0ee48bf-642c-49fb-a0ef-ea8283d1d5e2</key><id>2017--Mahdizadeh-S-J--Ge--LAMMPS--ipr1</id><potential><key>c37d42e0-1455-4e73-a862-6547a82d99a4</key><id>2017--Mahdizadeh-S-J-Akhlamadi-G--Ge</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ge</element></atom><pair_style><type>tersoff</type></pair_style><pair_coeff><term><file>Ge.tersoff</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>d107e3da-9589-4589-b44e-2bd75ff338b2</key><id>2016--Nichol-A--Li--LAMMPS--ipr2</id><potential><key>5db4343e-0340-43bd-8a36-b42fa75e2c33</key><id>2016--Nichol-A-Ackland-G-J--Li</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Li</element><mass>7.0</mass></atom><pair_style><type>eam/fs</type></pair_style><pair_coeff><term><file>Li_v2.eam.fs</file></term><term><symbols>true</symbols></term></pair_coeff></potential-LAMMPS>

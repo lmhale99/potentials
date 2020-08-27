@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<potential-LAMMPS><key>8e9ae12d-5034-418a-a168-fb5499ecffcd</key><id>1986--Foiles-S-M--Ni--LAMMPS--ipr1</id><potential><key>15a085b9-d9d6-404f-9c2f-3ed40e8ff7a4</key><id>1986--Foiles-S-M-Baskes-M-I-Daw-M-S--Ni</id></potential><units>metal</units><atom_style>atomic</atom_style><atom><element>Ni</element><mass>58.71</mass></atom><pair_style><type>eam</type></pair_style><pair_coeff><interaction><symbol>Ni</symbol><symbol>Ni</symbol></interaction><term><file>Ni_u3.eam</file></term></pair_coeff></potential-LAMMPS>
